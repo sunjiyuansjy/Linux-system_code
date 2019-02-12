@@ -1,0 +1,4 @@
+cmd:[ls -l a.txt ]
+-rw-rw-r--. 1 san san 19 Dec  2 12:14 a.txt
+cmd:[ls -l a.txt ]
+-rw-rw-r--. 1 san san 82 Dec  2 12:14 a.txt
